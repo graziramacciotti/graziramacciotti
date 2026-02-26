@@ -17,10 +17,10 @@
 
 ### About me
 
--  Diving deeper into **Data Science** and **DevOps**
+-  Diving deeper into **Data Science and Engineering** and **DevOps**
 -  Passionate about turning data into insights
--  I love automating things — if I do it twice, I'll script it
-- ✨ Fun fact: Love games, movies, and I'm stubbornly determined to find solutions to any problem
+-  If I have to do it more than twice, I'll probably script it
+-  Fun fact: Love games, movies, and I'm stubbornly determined to find solutions to any problem
 
 ---
 
