@@ -4,7 +4,7 @@
 
 # Hey, I'm Grazi 💜 
 
-**Data Science & Analytics | Machine Learning | DevOps**
+**Data Science & Engineering & Analytics | Machine Learning | DevOps**
 
 *Hoping to turn data into smart decisions*
 
@@ -17,10 +17,10 @@
 
 ### About me
 
--  Diving deeper into **Data Science and Engineering** and **DevOps**
--  Passionate about turning data into insights
+-  Diving deeper into **Data Science/Engineering** and **DevOps**
+-  Passionate about data-driven solutions
 -  If I have to do it more than twice, I'll probably script it
--  Fun fact: Love games, movies, and I'm stubbornly determined to find solutions to any problem
+-  Love games, movies, and I'm stubbornly determined to find solutions to any problem
 
 ---
 
