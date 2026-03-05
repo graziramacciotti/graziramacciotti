@@ -21,8 +21,6 @@
 ---
 
 ### 🛠 Tech Stack
-
-#### 📊 Data & ML
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=for-the-badge&logo=python&logoColor=9b59b6)
@@ -39,21 +37,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=9b59b6)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=9b59b6)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=9b59b6)
-
-</div>
-
-#### ⚙️ Tools & Infra
-<div align="center">
-
-![Azure](https://img.shields.io/badge/-Azure-1a1a2e?style=for-the-badge&logo=microsoftazure&logoColor=9b59b6)
+![SQL](https://img.shields.io/badge/-SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=9b59b6)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=9b59b6)
+![Azure](https://img.shields.io/badge/-Azure-1a1a2e?style=for-the-badge&logo=microsoftazure&logoColor=9b59b6)
 ![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9b59b6)
-![PowerShell](https://img.shields.io/badge/-PowerShell-1a1a2e?style=for-the-badge&logo=powershell&logoColor=9b59b6)
-![HTML](https://img.shields.io/badge/-HTML-1a1a2e?style=for-the-badge&logo=html5&logoColor=9b59b6)
-![CSS](https://img.shields.io/badge/-CSS-1a1a2e?style=for-the-badge&logo=css3&logoColor=9b59b6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=9b59b6)
 
-</div>
+
 
 ---
 
